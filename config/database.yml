@@ -2,20 +2,20 @@
 production:
   adapter: postgresql
   database: postgresdb_prod
-  host: localhost
+  host: NB-DENE-0019.int.audatex.com
   username: postgres
   password: "lidenise"
 
 development:
   adapter: postgresql
   database: postgresdb_dev
-  host: localhost
+  host: NB-DENE-0019.int.audatex.com
   username: postgres
   password: "lidenise"
 
 test:
   adapter: postgresql
   database: postgresdb_test
-  host: localhost
+  host: NB-DENE-0019.int.audatex.com
   username: postgres
   password: "lidenise"
